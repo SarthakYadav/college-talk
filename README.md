@@ -7,7 +7,8 @@ Repository for my talk at my Alma Mater on Deep learning for Spoken Language Und
 * "$ROOT/papers" contains all the Research Articles used as Case-study
 
 ## Running the example code
-* Uses pytorch == 0.4.1, which is not included in the requirements.txt
+* Uses pytorch == 0.4.1, which is not included in the requirements.txt. Please make sure to grab
+  the correct version from pytorch.org
 
 
 For all other requirements, run the following command to Setup the virtual environment
